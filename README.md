@@ -21,3 +21,7 @@ unittest module
 
 ```bash
 python3 password_strength_checker.py
+
+🧪 Run Tests
+To run the unit tests for this project:
+python3 -m unittest -v tests/test_password_strength.py
